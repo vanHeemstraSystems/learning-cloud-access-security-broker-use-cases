@@ -1,5 +1,0 @@
----
-title: "Cloud Access Security Broker Foo"
----
-
-About this site
